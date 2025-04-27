@@ -22,3 +22,8 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+/node_modules
+/build
+/public/home2.mp4
+.env
