@@ -16,25 +16,25 @@ If you are developing a production application, we recommend using TypeScript an
 ## 🔍 Project Preview
 
 <p align="center">
-  <img src="Screenshot%20(677).png" alt="Preview 1" width="700"/>
+  <img src="home.png" alt="Preview 1" width="700"/>
 </p>
 
 <p align="center">
-  <img src="Screenshot%20(680).png" alt="Preview 2" width="700"/>
+  <img src="podcasts.png" alt="Preview 6" width="700"/>
+</p>
+<p align="center">
+  <img src="user.png" alt="Preview 2" width="700"/>
 </p>
 
 <p align="center">
-  <img src="Screenshot%20(722).png" alt="Preview 3" width="700"/>
+  <img src="podcaster.png" alt="Preview 3" width="700"/>
 </p>
 
 <p align="center">
-  <img src="Screenshot%20(723).png" alt="Preview 4" width="700"/>
+  <img src="admin.png" alt="Preview 4" width="700"/>
 </p>
 
 <p align="center">
-  <img src="Screenshot%20(724).png" alt="Preview 5" width="700"/>
+  <img src="superadmin.png" alt="Preview 5" width="700"/>
 </p>
 
-<p align="center">
-  <img src="Screenshot%20(725).png" alt="Preview 6" width="700"/>
-</p>
